@@ -14,10 +14,6 @@ body {
   overflow-x: hidden;
 }
 main {
-  background-image: url("Fotos Invitación/anillo.jpeg");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
   width: 100%;
   height: 100vh;
 }
@@ -27,7 +23,16 @@ a {
 main img {
   position: relative;
 }
+main .img{
+    background-image: url("Fotos Invitación/anillo.jpeg");
+background-position: center;
+background-size: cover;
+ background-repeat: no-repeat;
+ width: 100%;
+ height: 100vh;
+}
 main .inner-text {
+
   text-align: center;
   position: absolute;
   top: 50%;
@@ -37,6 +42,7 @@ main .inner-text {
   color: #7c6f54;
 }
 .inner-text h1 {
+    
   font-size: 64px;
   line-height: 96px;
   font-weight: 400;
