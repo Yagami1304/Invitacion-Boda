@@ -14,7 +14,7 @@ body {
   overflow-x: hidden;
 }
 main {
-  background-image: url("https://images.unsplash.com/photo-1519741497674-611481863552?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
+  background-image: url("Fotos\ Invitación/anillo.jpeg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -34,7 +34,7 @@ main .inner-text {
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  color: #ffffff;
+  color: #7c6f54;
 }
 .inner-text h1 {
   font-size: 64px;
@@ -69,11 +69,11 @@ img {
 
 .about p {
   padding: 2.4rem 0;
-  font-size: 15px;
+  font-size: 30px;
   font-weight: 300;
   letter-spacing: 1.2px;
   font-style: italic;
-  text-align: left;
+  text-align: center;
 }
 
 .btn-dark {
@@ -99,9 +99,9 @@ a.btn-dark {
   color: #000;
 }
 .invite-section {
-  background-image: url("https://images.unsplash.com/reserve/xd45Y326SvKzSR3Nanc8_MRJ_8125-1.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
+  background-image: url("Fotos\ Invitación/vista.jpeg");
   width: 100%;
-  height: 500px;
+  height: 1000px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -111,7 +111,7 @@ a.btn-dark {
   position: absolute;
   width: 100%;
   height: 100%;
-  top: 150px;
+  top: 500px;
   left: 0px;
   text-align: center;
   color: #ffffff;
@@ -191,27 +191,7 @@ a.btn-light {
   background: #cccccc;
   color: #000;
 }
-footer {
-  background-color: #000;
-  text-align: center;
-  padding: 20px 0;
-  color: #fff;
-  z-index: 1;
-}
-footer h1 {
-  font-size: 30px;
-  font-weight: 200;
-}
-footer a {
-  font-size: 16px;
-  letter-spacing: 2px;
-  display: inline-block;
-  padding-left: 10px;
-  margin-left: 10px;
-  color: #fff;
-  -webkit-text-decoration-line: underline;
-  text-decoration-line: underline;
-}
+
 header {
   width: 100%;
   background: #fff;
