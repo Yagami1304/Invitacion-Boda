@@ -14,7 +14,7 @@ body {
   overflow-x: hidden;
 }
 main {
-  background-image: url("Fotos\ Invitación/anillo.jpeg");
+  background-image: url("Fotos Invitación/anillo.jpeg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -99,7 +99,7 @@ a.btn-dark {
   color: #000;
 }
 .invite-section {
-  background-image: url("Fotos\ Invitación/vista.jpeg");
+  background-image: url("Fotos Invitación/Vista.jpeg");
   width: 100%;
   height: 1000px;
   background-size: cover;
