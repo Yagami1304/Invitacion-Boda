@@ -69,7 +69,7 @@ img {
 
 .about p {
   padding: 2.4rem 0;
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 300;
   letter-spacing: 1.2px;
   font-style: italic;
@@ -137,9 +137,16 @@ a.btn-dark {
   position: relative;
   text-align: center;
   background: #ffffff;
-  
+  background-image: url(https://www.marinelife.com.mx/wp-content/uploads/2024/03/Anillo.jpeg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 120vh;
+  width: 100%;
+  top: -30px;
 }
 .wedding-details .details {
+  top: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -155,12 +162,14 @@ a.btn-dark {
   flex-wrap: wrap;
 }
 .details h3 {
+  top: 30px;
   text-align: center;
   padding-bottom: 10px;
   font-size: 30px;
   font-weight: 300;
 }
 .details p {
+  top: 30px;
   text-align: center;
   padding-bottom: 10px;
   font-size: 30px;
@@ -248,20 +257,30 @@ nav ul li a {
 #micontador .num{
    display: flex;
    flex-direction:column;
-   border: 1px solid rgb(255, 255, 255);
+   border: none;
    margin: 0 8px;
+   color: white;
 }
 #micontador .num .dig{
    overflow: hidden;
    padding: 10px;
+   color: white;
 }
 #micontador .num .dig span{
    font-family: "Arial Black";
    font-size: 4rem;
    font-weight: 800px;
    position: relative;
+   color: white;
 }
 #micontador .label{
    text-align: center;
-   border-top: 1px solid black;
+   border-top: 1px solid white;
+}
+ul{
+  font-size: 25px;
+  list-style-type: none;
+}
+details .h1{
+  color: white;
 }
