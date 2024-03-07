@@ -134,6 +134,8 @@ a.btn-dark {
   height: 1000px;
 }
 .wedding-details {
+  position: relative;
+  text-align: center;
   background: #ffffff;
   
 }
@@ -153,11 +155,13 @@ a.btn-dark {
   flex-wrap: wrap;
 }
 .details h3 {
+  text-align: center;
   padding-bottom: 10px;
   font-size: 30px;
   font-weight: 300;
 }
 .details p {
+  text-align: center;
   padding-bottom: 10px;
   font-size: 30px;
 }
@@ -244,7 +248,7 @@ nav ul li a {
 #micontador .num{
    display: flex;
    flex-direction:column;
-   border: 1px solid black;
+   border: 1px solid rgb(255, 255, 255);
    margin: 0 8px;
 }
 #micontador .num .dig{
