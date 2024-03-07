@@ -14,12 +14,12 @@ body {
   overflow-x: hidden;
 }
 main {
-  background-image: url("Fotos Invitación/anillo.jpeg");
+  background-image: url("https://www.marinelife.com.mx/wp-content/uploads/2024/03/Mostrando-scaled.jpeg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
-  height: 100vh;
+  height: 220vh;
 }
 a {
   text-decoration: none;
