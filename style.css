@@ -34,7 +34,7 @@ main .inner-text {
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  color: #9B8B6C;
+  color: #000000;
 }
 .inner-text h1 {
   font-size: 64px;
